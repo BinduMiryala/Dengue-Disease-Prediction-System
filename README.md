@@ -1,4 +1,3 @@
-# Code to generate a customized and impressive README file for Dengue Disease Prediction System
 
 def generate_custom_readme():
     content = """
