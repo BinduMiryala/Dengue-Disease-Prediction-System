@@ -1,5 +1,5 @@
 
-def generate_custom_readme():
+
     content = """
 # 🚨 Dengue Disease Prediction System 🚨
 
