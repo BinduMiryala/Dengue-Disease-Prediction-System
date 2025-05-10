@@ -23,4 +23,10 @@ A Django-based web application that predicts the **likelihood of Dengue infectio
 | n7    | Platelet Count         |
 | n8    | WBC Count              |
 
+Steps to Install and Run:
 
+1. **Clone the repository**:
+    ```bash
+    git clone https://github.com/yourusername/dengue-disease-prediction-system.git
+    cd dengue-disease-prediction-system
+    ```
