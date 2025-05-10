@@ -100,6 +100,18 @@ You can replace the data in the `data` folder with your own CSV file that contai
 ---
 
 ## 📁 Project Structure
+dengue-disease-prediction-system/
+├── data/ # Folder for storing datasets
+│ └── dengue_data.csv # Example dataset (replace with actual data)
+├── models/ # Folder for storing the trained models
+│ └── dengue_model.pkl # Trained model saved using Joblib
+├── app.py # Flask app for web interface (optional)
+├── train_model.py # Script to train the machine learning model
+├── predict.py # Script for making predictions with the trained model
+├── data_preprocessing.py # Data preprocessing steps (handling missing values, scaling)
+├── requirements.txt # List of dependencies
+├── README.md # Project documentation
+└── utils/ # Utility functions for the system
 
 ---
 
