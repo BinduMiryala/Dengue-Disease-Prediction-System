@@ -1,6 +1,6 @@
 
 
-    content = """
+    
 # 🚨 Dengue Disease Prediction System 🚨
 
 ## 🔍 Project Overview
