@@ -14,28 +14,14 @@ A Django-based web application that predicts the **likelihood of Dengue infectio
 
 | Field | Description            |
 |-------|------------------------|
-| n1    | WBC Count              |
-| n2    | RBC Count              |
-| n3    | Platelet Count         |
-| n4    | Hemoglobin             |
-| n5    | Temperature (°C)       |
-| n6    | Blood Pressure         |
-| n7    | Age (in years)         |
-| n8    | Days of Fever          |
-
-## 📁 Project Structure
-
-\```
-dengue-disease-predictor/
-├── templates/
-│   ├── home.html
-│   └── predict.html
-├── model.pkl
-├── scaler.pkl
-├── views.py
-├── requirements.txt
-└── README.md
-\```
+| n1    | Age                    |
+| n2    | Systolic BP            |
+| n3    | Diastolic BP           |
+| n4    | Blood sugar            |
+| n5    | Body Temperature       |
+| n6    | Heart Rate             |
+| n7    | Platelet Count         |
+| n8    | WBC Count              |
 
 ## 🛠️ Setup Instructions
 
@@ -43,3 +29,21 @@ dengue-disease-predictor/
 ```bash
 git clone https://github.com/yourusername/dengue-disease-predictor.git
 cd dengue-disease-predictor
+2. Create a Virtual Environment
+bash
+Copy
+Edit
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+3. Install Dependencies
+bash
+Copy
+Edit
+pip install -r requirements.txt
+4. Run Django Server
+bash
+Copy
+Edit
+python manage.py runserver
+5. Open the App
+Visit http://127.0.0.1:8000 in your browser.
