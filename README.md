@@ -23,27 +23,4 @@ A Django-based web application that predicts the **likelihood of Dengue infectio
 | n7    | Platelet Count         |
 | n8    | WBC Count              |
 
-## 🛠️ Setup Instructions
 
-### 1. Clone the Repository
-```bash
-git clone https://github.com/yourusername/dengue-disease-predictor.git
-cd dengue-disease-predictor
-2. Create a Virtual Environment
-bash
-Copy
-Edit
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-3. Install Dependencies
-bash
-Copy
-Edit
-pip install -r requirements.txt
-4. Run Django Server
-bash
-Copy
-Edit
-python manage.py runserver
-5. Open the App
-Visit http://127.0.0.1:8000 in your browser.
