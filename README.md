@@ -45,7 +45,8 @@ Include info about your dataset here:
 
 | Input Page | Prediction Output |
 |------------|-------------------|
-| ![Input](https://via.placeholder.com/300x200) | ![Output](https://via.placeholder.com/300x200) |
+| ![Input](![WhatsApp Image 2025-04-22 at 00 05 10_532edf97](https://github.com/user-attachments/assets/d7a8363c-0fcc-4c42-9156-e7a2bfbd52f4)
+) | ![Output](https://via.placeholder.com/300x200) |
 
 *(Replace these links with your actual screenshots or Imgur-hosted images.)*
 
