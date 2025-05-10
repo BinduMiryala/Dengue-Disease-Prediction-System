@@ -23,11 +23,9 @@ A Django-based web application that predicts the **likelihood of Dengue infectio
 | n7    | Platelet Count         |
 | n8    | WBC Count              |
 
-## 📷 Input and Output Examples
-(![input page](https://github.com/user-attachments/assets/77059932-2ec7-4281-b5f5-5692d0343627)
-)
-(![output page](https://github.com/user-attachments/assets/7b244e56-3344-4479-b99a-f6448879b773)
-)
+## 📷 Input and Output Screens
+(![input page](https://github.com/user-attachments/assets/77059932-2ec7-4281-b5f5-5692d0343627))
+(![output page](https://github.com/user-attachments/assets/7b244e56-3344-4479-b99a-f6448879b773))
 
 ---
 
