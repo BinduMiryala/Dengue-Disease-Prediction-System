@@ -52,25 +52,19 @@ Before running the system, ensure that you have the following installed:
     source venv/bin/activate  # For Windows: venv\Scripts\activate
     ```
 
-3. **Install dependencies**:
-    Install all necessary libraries using the `requirements.txt` file:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-4. **Run the Flask web server** (optional, if you want to deploy it as a web app):
+3. **Run the Flask web server** (optional, if you want to deploy it as a web app):
     ```bash
     python app.py
     ```
     After starting the server, open your browser and go to [http://localhost:5000](http://localhost:5000).
 
-5. **Training the Model**:
+4. **Training the Model**:
     If you want to retrain the machine learning model with your own data:
     ```bash
     python train_model.py
     ```
 
-6. **Making Predictions**:
+5. **Making Predictions**:
     To predict dengue outbreaks using the trained model:
     ```bash
     python predict.py
